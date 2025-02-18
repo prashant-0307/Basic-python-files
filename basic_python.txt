@@ -1,0 +1,6 @@
+1) variables and datatype
+2) basic input/output
+3) conditional statements( if,elif,else)
+4) loops(for, while)
+5) function and scope
+6) lists , tuples sets, dictionary 
