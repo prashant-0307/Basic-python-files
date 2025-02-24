@@ -6,4 +6,4 @@ try:
     db_cursor.execute("create database mypython")
     print("database created successfully..........")
 except:
-    print("database already exsits")
+    print("database already exists")
