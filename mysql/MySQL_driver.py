@@ -1,6 +1,6 @@
 # pip install mysql-connect-python
 try:
-    import mysql.connector
+    import mysql.connector # type: ignore
     print("installed successfully")
 
 except:
